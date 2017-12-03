@@ -1,0 +1,62 @@
+<items>
+        <item>
+        <title>[COLOR=white]~~~~~~~~~~~~~~~~~~~~SHQIP TV~~~~~~~~~~~~~~~~~~~~[/COLOR]</title>
+        <link>none</link>
+        <thumbnail>http://flaglane.com/download/albanian-flag/albanian-flag-small.png</thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]TOP CHANNEL Live[/COLOR]</title>
+        <link>http://mygameravatar.zapto.org:43666/live/shqip1/shqip22/52.ts</link>
+        <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/top_channel.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]KLAN TV[/COLOR]</title>
+        <link>http://mygameravatar.zapto.org:43666/live/shqip1/shqip22/24.ts</link>
+        <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/tv_klan.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]VIZION PLUS[/COLOR]</title>
+        <link>http://mygameravatar.zapto.org:43666/live/shqip1/shqip22/59.ts</link>
+        <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/vizion_plus.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]FOLK PLUS[/COLOR]</title>
+        <link>http://mygameravatar.zapto.org:43666/live/shqip1/shqip22/72.ts</link>
+        <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/folk_plus.jpg</thumbnail>
+        </item>
+        
+        <item>
+        <title>[COLOR=blue]Classics[/COLOR]</title>
+        <link>https://www.djing.com/tv/i-05.m3u8</link>
+        <thumbnail>https://www.djing.com/newimages/content/c06.jpg</thumbnail>
+        </item>
+        
+        <item>
+        <title>[COLOR=blue]Animation[/COLOR]</title>
+        <link>https://www.djing.com/tv/a-05.m3u8</link>
+        <thumbnail>https://www.djing.com/newimages/content/c07.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Summer Vibes[/COLOR]</title>
+        <link>https://www.djing.com/tv/s-05-summer-vibes.m3u8</link>
+        <thumbnail>https://www.djing.com/newimages/content/c05.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Electro Rock[/COLOR]</title>
+        <link>https://www.djing.com/tv/s-05-electro-rock.m3u8</link>
+        <thumbnail>https://www.djing.com/newimages/content/c08.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Frech Touch[/COLOR]</title>
+        <link>https://www.djing.com/tv/s-05-french-touch.m3u8</link>
+        <thumbnail>https://www.djing.com/newimages/content/c09.jpg</thumbnail>
+        </item>
+        
+</items>
