@@ -2,7 +2,7 @@
 <items>
         <item>
         <title>[COLOR=gold]UP DATE!!![/COLOR]</title>
-        <link>msg~"title":"Support & Suggestions","msg":"This is a message you can set in your online xml. Just follow the template in the xml at:\n[COLOR=dodgerblue]http://totalrevolution.tv/xmls/main_menu.xml[/COLOR]"</link>
+        <link>msg~"title":"Support & Suggestions","msg":"This is a message you can set in your online xml. Just follow the template in the xml at:\n[COLOR=dodgerblue]https://github.com/guxiko/guxitiv-tv/blob/master/main_menu.xml[/COLOR]"</link>
         <thumbnail>https://github.com/guxiko/guxitiv-tv/blob/master/icon.png</thumbnail>
         </item>
 
