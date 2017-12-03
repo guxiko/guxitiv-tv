@@ -1,0 +1,21 @@
+
+<items>
+        <item>
+        <title>[COLOR=gold]UP DATE!!![/COLOR]</title>
+        <link>msg~"title":"Support & Suggestions","msg":"This is a message you can set in your online xml. Just follow the template in the xml at:\n[COLOR=dodgerblue]http://totalrevolution.tv/xmls/main_menu.xml[/COLOR]"</link>
+        <thumbnail>https://github.com/guxiko/guxitiv-tv/blob/master/icon.png</thumbnail>
+        </item>
+
+        <item>
+        <title>VIDEOT YOU TUBE</title>
+        <link>plugin://plugin.video.youtube/play/?video_id=PLDBHNGQFJGxMmG_FBHZjcGjeZ6aaoQDYP</link>
+        <thumbnail>https://github.com/guxiko/guxitiv-tv/blob/master/youtube-LOGO.png</thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]SHQIP TV[/COLOR]</title>
+        <link>https://github.com/guxiko/guxitiv-tv/blob/master/SHQIP%20TV.xml</link>
+        <thumbnail>http://flaglane.com/download/albanian-flag/albanian-flag-small.png</thumbnail>
+        </item>
+        
+</items>
