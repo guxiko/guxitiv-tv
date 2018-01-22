@@ -2,13 +2,13 @@
 name= Top Channel HD  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/159.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Top%20Channel%20HD.png"
  
 
-name= Top Channel  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/160.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/Top%20Channel.png"
+name= Top Channel  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/160.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Top%20Channel.png"
  
 
 name= Klan url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/161.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Klan%20TV.png"
  
 
-name= Klan HD  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/162.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Klan%20TVHD.png"
+name= Klan HD  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/162.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Klan%20TV%20HD.png"
  
 
 name= Top News  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/163.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Top%20News.png"
@@ -74,10 +74,10 @@ name= Tring World url= "http://babisito.janokoro.org:25041/live/bestiptv/kingipt
 name= Tring Tring url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/166.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/Spi1Dyj.png"
  
 
-name= Tring Super url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/187.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/QgEaHtH.png"
+name= Tring Super url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/187.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/tzVTTpU.png"
  
 
-name= Tring Shqip url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/189.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/pBTXIhA.png"
+name= Tring Shqip url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/189.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/YhU2fak.png"
  
 
 name= Tring Planet url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/195.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/yow94Q2.png"
@@ -194,16 +194,19 @@ name= Arena Sport 2 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingi
 name= Arena Sport 1 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/147.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/BZlx0kd.png"
  
 
-name= Super Sport2 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/219.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/BuiNZRI.png"
+name= Super Sport2 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/219.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/SuperSport%202.png"
  
 
-name= Super Sport1 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/220.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/BZlx0kd.png"
+name= Super Sport1 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/220.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/SuperSport%201.png"
  
 
 name= Alsat M url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/221.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Alsat-M.png"
  
 
 name= ABC News url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/164.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/ABC%20News.png"
+ 
+ 
+
  
  
 
