@@ -1,6 +1,209 @@
-name= VIZION PLUS url= "http://95.107.132.100/out/u/539_1.m3u8" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/21%20Junior.png"
-name= ORA NEWS url= "http://145.239.2.153:8081/oranews/live/chunks.m3u8?" logo= "https://imgur.com/uVkBLkH.png"
-name= Discovery url= "http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/21%20Junior.png"
-name= JUG url= "http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8" logo= "https://imgur.com/z90u0yJ.png"
-name= TOP CHANNEL url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/159.ts" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/21%20Junior.png"
-name= KLAN url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/161.ts|User-Agent=Online TV Android Clients" logo= "https://imgur.com/fFS6F2I.png"
+
+name= Top Channel HD  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/159.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Top Channel HD.png"
+ 
+
+name= Top Channel  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/160.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/Top Channel.png"
+ 
+
+name= Klan url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/161.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Klan TV.png"
+ 
+
+name= Klan HD  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/162.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Klan TV HD.png"
+ 
+
+name= Top News  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/163.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Top News.png"
+ 
+
+name= T Channel  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/171.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/T HD.png"
+ 
+
+name= Folk Plus  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/212.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Folk Plus.png"
+ 
+
+name= Folklorit url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/211.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/TtUYvUm.png"
+ 
+
+name= T HD url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/215.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/T HD.png"
+ 
+
+name= Film Thriller  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/179.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Film Thriller.png"
+ 
+
+name= Film Nje HD  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/172.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Film Nje HD.png"
+ 
+
+name= Film Komedi  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/176.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Film Komedi.png"
+ 
+
+name= Film Hits 1 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/178.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Film Hits.png"
+ 
+
+name= Film Hits url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/177.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Film Hits.png"
+ 
+
+name= Film Dy HD url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/173.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Film Dy HD.png"
+ 
+
+name= Film Drame url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/180.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Film Drame.png"
+ 
+
+name= Film Autor  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/182.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/tMulX2O.png"
+ 
+
+name= Film Aksion  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/181.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Film Aksion.png"
+ 
+
+name= Exp Shkence  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/191.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/EXPLORER Shkence.png"
+ 
+
+name= Exp Natyra url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/192.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/EXPLORER Natyra.png"
+ 
+
+name= Exp History url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/193.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/EXPLORER Histori.png"
+ 
+
+name= ERA TV url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/214.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/ERA TV.png"
+ 
+
+name= Digi Gold url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/175.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Digi Gold.png"
+ 
+
+name= Tring World url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/194.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/CXrIfjR.png"
+ 
+
+name= Tring Tring url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/166.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/Spi1Dyj.png"
+ 
+
+name= Tring Super url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/187.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/QgEaHtH.png"
+ 
+
+name= Tring Shqip url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/189.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/pBTXIhA.png"
+ 
+
+name= Tring Planet url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/195.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/yow94Q2.png"
+ 
+
+name= Tring Max url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/183.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/u9w1foX.jpg"
+ 
+
+name= Tring Life url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/184.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/fLpKV1B.jpg"
+ 
+
+name= TRING HISTORY url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/196.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Tring History.png"
+ 
+
+name= Tring Fantazi url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/185.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Tring Fantasy.png"
+ 
+
+name= Tring Comedy url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/186.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Tring Comedy.png"
+ 
+
+name= Tring 3 Plus url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/188.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/QGs1H0I.png"
+ 
+
+name= Stinet url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/169.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Stinet.png"
+ 
+
+name= Smile url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/170.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Smile.png"
+ 
+
+name= Junior url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/199.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Junior.png"
+ 
+
+name= RTV21 Plus url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/200.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/RTV 21.png"
+ 
+
+name= RTV21 Mix url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/201.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/RTV 21.png"
+ 
+
+name= RTV21 HD url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/157.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/RTV 21 HD.png"
+ 
+
+name= RTV21 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/158.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/RTV 21.png"
+ 
+
+name= RTK1 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/152.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/RTK 1.png"
+ 
+
+name= Klan Kosova HD url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/153.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Klan Kosova.png"
+ 
+
+name= Klan Kosova url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/154.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Klan Kosova.png"
+ 
+
+name= First url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/213.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/Fntri2x.png"
+ 
+
+name= Rrokum url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/206.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Rrokum TV.png"
+ 
+
+name= Plus HD url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/174.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/EXa2zH8.jpg"
+ 
+
+name= MUSE url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/197.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Muse.png"
+ 
+
+name= KTV HD url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/155.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/KTV.png"
+ 
+
+name= KTV url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/156.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/KTV.png"
+ 
+
+name= Kanali 7 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/207.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/TkwdfVG.png"
+ 
+
+name= JuniorTV url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/167.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Junior.png"
+ 
+
+name= Jolly HD url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/190.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Jolly HD.png"
+ 
+
+name= Fox Life url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/208.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/FOX Life.png"
+ 
+
+name= Fox CRIME url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/209.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/FOX Crime.png"
+ 
+
+name= Tring Sport News HD url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/210.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/OJB3Nq1.png"
+ 
+
+name= Cufo TV url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/168.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Cufo TV.png"
+ 
+
+name= Super Sport4 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/217.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/SuperSport 4.png"
+ 
+
+name= Super Sport3 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/218.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/SuperSport 3.png"
+ 
+
+name= Bang Bang url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/165.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Bang Bang.png"
+ 
+
+name= Arena Sport 5 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/151.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/mr18fxK.png"
+ 
+
+name= Arena Sport 4 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/150.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/TVI5V5p.jpg"
+ 
+
+name= Arena Sport 3 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/149.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/nnD0EnM.png"
+ 
+
+name= Arena Sport 2 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/148.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/BuiNZRI.png"
+ 
+
+name= Arena Sport 1 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/147.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/BZlx0kd.png"
+ 
+
+name= Super Sport2 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/219.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/BuiNZRI.png"
+ 
+
+name= Super Sport1 url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/220.ts|User-Agent=Online TV Android Clients" logo= "https://i.imgur.com/BZlx0kd.png"
+ 
+
+name= Alsat M url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/221.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Alsat-M.png"
+ 
+
+name= ABC News url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/164.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/ABC News.png"
+ 
+ 
+
