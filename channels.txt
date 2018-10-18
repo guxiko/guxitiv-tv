@@ -1,20 +1,20 @@
 
-name= Top Channel HD  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/159.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Top%20Channel%20HD.png"
+name= Top Channel HD  url= "http://51.15.3.71:8000/live/albbxxxkann3/alvvbb000x/13.ts" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Top%20Channel%20HD.png"
  
 
-name= Top Channel  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/160.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Top%20Channel.png"
+name= Top Channel  url= "http://51.15.3.71:8000/live/albbxxxkann3/alvvbb000x/13.ts" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Top%20Channel.png"
  
 
-name= Klan url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/161.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Klan%20TV.png"
+name= Klan url= "http://51.15.3.71:8000/live/albbxxxkann3/alvvbb000x/14.ts" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Klan%20TV.png"
  
 
-name= Klan HD  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/162.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Klan%20TV%20HD.png"
+name= Klan HD  url= "http://51.15.3.71:8000/live/albbxxxkann3/alvvbb000x/14.ts" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Klan%20TV%20HD.png"
  
 
-name= Top News  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/163.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Top%20News.png"
+name= Top News  url= "http://51.15.3.71:8000/live/albbxxxkann3/alvvbb000x/18.ts" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Top%20News.png"
  
 
-name= T Channel  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/171.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/T%20HD.png"
+name= T Channel  url= "http://51.15.3.71:8000/live/albbxxxkann3/alvvbb000x/16.ts" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/T%20HD.png"
  
 
 name= Folk Plus  url= "http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/212.ts|User-Agent=Online TV Android Clients" logo= "https://raw.githubusercontent.com/guxiko/guxitiv-tv/master/Folk%20Plus.png"
